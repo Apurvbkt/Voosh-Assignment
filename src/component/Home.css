@@ -117,6 +117,7 @@ input{
 form{
     margin-left: 15px;
     /* margin-top: 10px; */
+    padding: 3%;
 }
 .btn-2{
     border: 1px solid red;
@@ -127,7 +128,7 @@ form{
     font-weight: bolder;
     font-size: 18px;
     border-style: none;
-    border-radius: 5%;
+    border-radius: 10px;
     cursor: pointer;
 }
 a{

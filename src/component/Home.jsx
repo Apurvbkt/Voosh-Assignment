@@ -16,6 +16,8 @@ const Home = () => {
     localStorage.setItem('email', email);
     localStorage.setItem('company', company);
     localStorage.setItem('title', title);
+    alert(` ${name} registration succefull done`)
+
   };
 
 
